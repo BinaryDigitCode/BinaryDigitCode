@@ -1,3 +1,4 @@
+![banner](/banner.jpg)
 - 👋 Hi, you can call me Liz, B or any variation of BinaryDigit!
 - 👩🏽‍💻 I ’m interested in tech, travel, photography, web dev and gaming.
 - 📫 You can reach me on [Mastodon](https://mstdn.games/@BinaryDigit) or the email in my profile link.
