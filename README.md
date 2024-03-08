@@ -1,2 +1,3 @@
 ![banner](/banner.png)
-- 👩🏽‍💻 I’m interested in tech, travel, photography, music, web dev and gaming.
+- 👩🏽‍💻 I’m Liz!
+- 🤓 Interested in tech, travel, photography, music, web dev and gaming.
